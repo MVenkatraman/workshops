@@ -196,7 +196,7 @@ Or only one needs to be fulfilled:
 
 Pipe those into wc to see the difference.
 
-#### Exercise 4
+#### Exercise 5
 Count the number of variant sites in sample.vcf
 
-#### Exercise 5
+#### Exercise 6
