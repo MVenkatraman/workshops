@@ -14,11 +14,11 @@ Before we get into more complicated and specific tools for data manipulation we 
 This is what a vcf file looks like:
 ![picture alt](https://bioinf.comav.upv.es/courses/sequence_analysis/_images/vcf_format.png "from bioinf.comav.upv.es")
 
-### 1. cutting, sorting and all that jazz
+## 1. cutting, sorting and all that jazz
 
 These are a few simple and useful tools for data visualization and manipulation
 
-#### cut
+### cut
 This tool helps you 'cut out' certain parts of your data, depending on the flag you give it.
 
 -d: delimiter: tells cut what delimiter you want to use. The default is tab.
@@ -41,10 +41,51 @@ or
 
 #### Exercise 1
 
-Extract the ref alleles and alt alleles separately and save them as alt.txt and ref.txt
+Extract the ref alleles and alt alleles separately and save them as alt.txt and ref.txt   
+Use the file noheader.vcf. It is sample.vcf without the header  
+
+### paste
+
+Now that we have cut up the file, lets put it back together.
+
+`paste ref.txt alt.txt > alleles.txt`
+
+Check out the new file:  
+
+`head alleles.txt`
+
+### sort
+
+Sorting files can be useful, so let's do that. Sort has **a lot** of options. I'm just going to show you how to do some basic sorting. But check out unix documentation for all your sorting needs.  
+
+Let's just sort by ID first:
+
+`sort -k 3 noheader.vcf | head`  
+*k or key value indicates the position to start sorting at*
+
+**What if we want to sort by two columns?**
+
+`sort -k3,3 -k2,2 noheader.vcf`  
+*this will sort by column 3 first and column 2 second. This syntax is important*
+
+**Let's sort in reverse now**
+
+`sort -k 3 -r noheader.vcf`
+
+#### Exercise 2
+
+Sort noheader.vcf by format first and then by ID and name it sorted.vcf.
 
 _____________
-## awk
+## 2. grep
+
+grep is an **amazing** search tool in unix systems. Learning to use grep can save you a lot of time and headaches.
+
+_____________
+## 3. sed
+
+_____________
+## 4. awk
 
 *We will be using a bed file in this workshop.
 Download t_guttata.txt*
@@ -57,7 +98,7 @@ chr1        | 16298  | 28310| g1.t1  |   0    |+
 chr1        | 31486  | 32971| g2.t1  |   0    |+
 
 ### What is awk?
-awk is a interpreted programming language used primarily for processing text and data extraction
+awk is a interpreted programming language used primarily for processing text and data extraction.
 *awk is pre-installed on your computer*
 
 ### Why use awk?
