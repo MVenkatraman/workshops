@@ -1,5 +1,5 @@
 # Command Line Data Manipulation
-### Intro to grep, sed, awk, etc.
+### Intro to grep, awk, etc.
 #### Smithsonian CCEG
 April 26th, 2016
 
@@ -83,7 +83,9 @@ Sort noheader.vcf by format first and then by ID and name it sorted.vcf.
 _____________
 ## 2. grep
 
-grep is an **amazing** search tool in unix systems. Learning to use grep can save you a lot of time and headaches. Simply put, grep searches for patterns and then extracts the line association with that pattern. I've tried to include some useful grep flags in this tutorial but there is much more! So, checkout the documentation if you don't see what you need here.  
+grep is an **amazing** search tool in unix systems. Learning to use grep can save you a lot of time and headaches. Simply put, grep searches for patterns and then extracts the line association with that pattern. I've tried to include some useful grep flags in this tutorial but there is much more! So, checkout the documentation if you don't see what you need here.
+
+grep works with regular expressions. regexs are extremely useful and worth checking out if you are not familiar.  
 
 Let's start with the simplest grep, finding a line with something. Let's say we want all the sites with alt alleles A and T:  
 
@@ -97,20 +99,23 @@ Now, i just want to know how many lines match this pattern:
 
 `grep -c "A,T" sample.vcf`
 
-grep works with regular expressions. regexs are extremely useful and worth checking out if you are not familar.   
-
 **Now, I want all the lines that don't match this pattern**
 
-`grep -v "A,T" sample.vcf | tail` 
+`grep -v "A,T" sample.vcf | tail`
+
+#### Exercise 3
+
+How many lines in sample.vcf do not have IDs that start with rs18?  
+
+#### Exercise 4
+
+How many lines in sample.vcf have the reference allele A?
 
 _____________
-## 3. sed
-
-_____________
-## 4. awk
+## 3. awk
 
 *We will be using a bed file in this workshop.
-Download t_guttata.txt*
+Download t_guttata.bed*
 
 A bed file has the following format (without the headings):
 
@@ -133,8 +138,7 @@ awk is a interpreted programming language used primarily for processing text and
 ### What are we going to do today?
 1. Learn basic awk syntax
 2. Filter a data file
-3. Split/ make new files from file1
-4. Summarize data within the file
+3. Summarize data within the file
 
 ###  Basic awk
 
@@ -145,7 +149,7 @@ We will be using the bed file again.
 `awk 'condition {action}' file.extension`
 
 Try this out see what you get:
-`awk '$6 == "+" {print $4}' t_guttata.txt`
+`awk '$6 == "+" {print $4}' t_guttata.bed`
 
 To select a column in awk you just need to use its column number:
 * $1 = column 1
@@ -157,4 +161,42 @@ The simplest thing to do in awk is to print a selection of your file. Let's try 
 
 Here we are printing the end position (column 3) of each line. We are going to pipe it into head to make it easier to visualize.
 
-`awk '{print $3}' t_guttata.txt | head`
+`awk '{print $3}' t_guttata.bed | head`
+
+If you want to add some text along with the lines being printed you can use double quotes within the print statement
+
+`awk '{print $4, "starts at", $2}' t_guttata.bed | head`
+
+You can also do math in awk:  
+
+`awk '{print $4, "is", $3-$2, "bps long"}' t_guttata.bed | head`
+
+Okay, so that's all well and good but awk can do much more than just print things for you.  
+
+For example you can filter for all the +ve strand entries in two ways:
+
+`awk '$6 == "+" {print $0}' t_guttata.bed | head`
+`awk '$6 != "-" {print $0}' t_guttata.bed | head`
+
+or you want to extract only the header from a vcf file:  
+
+`awk '$1 ~ "#" {print $0}' sample.vcf`
+
+**Notice how the condition vs the action is important. The condition can act upon one column but the action can be on another**
+
+You can multiple conditions as well:  
+
+Where both need to be fulfilled:
+
+`awk '$6 == "+" && $2 < 52538597 {print $4}' t_guttata.bed`
+
+Or only one needs to be fulfilled:
+
+`awk '$6 == "+" || $2 < 52538597 {print $4}' t_guttata.bed`
+
+Pipe those into wc to see the difference.
+
+#### Exercise 4
+Count the number of variant sites in sample.vcf
+
+#### Exercise 5
