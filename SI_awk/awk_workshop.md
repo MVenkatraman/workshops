@@ -9,6 +9,10 @@ April 26th, 2016
 
 Before we get into more complicated and specific tools for data manipulation we will go over some tools available in the unix command line.
 
+Download all the data:
+
+`wget https://github.com/MVenkatraman/workshops/tree/master/SI_awk/data`
+
 *We will be using a VCF file in this portion called sample.vcf*
 
 This is what a vcf file looks like:
@@ -79,7 +83,25 @@ Sort noheader.vcf by format first and then by ID and name it sorted.vcf.
 _____________
 ## 2. grep
 
-grep is an **amazing** search tool in unix systems. Learning to use grep can save you a lot of time and headaches.
+grep is an **amazing** search tool in unix systems. Learning to use grep can save you a lot of time and headaches. Simply put, grep searches for patterns and then extracts the line association with that pattern. I've tried to include some useful grep flags in this tutorial but there is much more! So, checkout the documentation if you don't see what you need here.  
+
+Let's start with the simplest grep, finding a line with something. Let's say we want all the sites with alt alleles A and T:  
+
+`grep "A,T" sample.vcf`
+
+We want to make sure we didnt miss anything in lowercase so we add the following flag to ignore case:
+
+`grep -i "A,T" sample.vcf`
+
+Now, i just want to know how many lines match this pattern:
+
+`grep -c "A,T" sample.vcf`
+
+grep works with regular expressions. regexs are extremely useful and worth checking out if you are not familar.   
+
+**Now, I want all the lines that don't match this pattern**
+
+`grep -v "A,T" sample.vcf | tail` 
 
 _____________
 ## 3. sed
