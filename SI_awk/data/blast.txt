@@ -1,0 +1,717 @@
+GBTA_R_Contig_42	Eukaryota	common carp	3e-12	81.1
+GBTA_R_Contig_44	Eukaryota	common canary	1e-10	75.5
+GBTA_R_Contig_46	Eukaryota	common carp	7e-09	69.9
+GBTA_R_Contig_54	Eukaryota	common carp	3e-07	64.3
+GBTA_R_Contig_54	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_54	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_54	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_58	Eukaryota	zebra finch	8e-27	  129
+GBTA_R_Contig_59	Eukaryota	common carp	4e-16	94.1
+GBTA_R_Contig_63	Eukaryota	crested myna	1e-38	  168
+GBTA_R_Contig_65	Eukaryota	common carp	4e-16	94.1
+GBTA_R_Contig_65	Eukaryota	common carp	6e-05	56.9
+GBTA_R_Contig_68	Eukaryota	common carp	1e-15	92.2
+GBTA_R_Contig_68	Eukaryota	common carp	6e-05	56.9
+GBTA_R_Contig_72	Eukaryota	common carp	3e-08	68.0
+GBTA_R_Contig_74	Eukaryota	African yellow white-eye	6e-14	86.6
+GBTA_R_Contig_80	Eukaryota	common carp	8e-04	53.1
+GBTA_R_Contig_95	Eukaryota	common carp	1e-06	62.4
+GBTA_R_Contig_103	Eukaryota	Pheucticus melanocephalus	6e-42	  179
+GBTA_R_Contig_107	Eukaryota	common carp	4e-16	94.1
+GBTA_R_Contig_110	Eukaryota	common carp	5e-15	90.4
+GBTA_R_Contig_111	Eukaryota	common carp	2e-14	88.5
+GBTA_R_Contig_111	Eukaryota	common carp	6e-05	56.9
+GBTA_R_Contig_112	Eukaryota	common carp	2e-19	  105
+GBTA_R_Contig_112	Eukaryota	common carp	3e-17	97.8
+GBTA_R_Contig_114	Eukaryota	common carp	2e-13	84.8
+GBTA_R_Contig_117	Eukaryota	zebra finch	3e-35	  157
+GBTA_R_Contig_118	Eukaryota	common carp	2e-09	71.8
+GBTA_R_Contig_118	Eukaryota	common carp	3e-07	64.3
+GBTA_R_Contig_118	Eukaryota	common carp	3e-07	64.3
+GBTA_R_Contig_119	Eukaryota	common carp	4e-11	77.3
+GBTA_R_Contig_126	Eukaryota	American crow	1e-20	  108
+GBTA_R_Contig_127	Bacteria	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	2e-09	71.8
+GBTA_R_Contig_129	Eukaryota	common carp	5e-10	73.6
+GBTA_R_Contig_130	Eukaryota	common carp	2e-09	71.8
+GBTA_R_Contig_130	Eukaryota	common carp	9e-08	66.2
+GBTA_R_Contig_133	Eukaryota	common canary	2e-19	  105
+GBTA_R_Contig_134	Eukaryota	red-winged blackbird	2e-37	  164
+GBTA_R_Contig_137	Eukaryota	common carp	5e-10	73.6
+GBTA_R_Contig_138	Eukaryota	Urosaurus nigricaudus	3e-26	  127
+GBTA_R_Contig_139	Eukaryota	common carp	2e-09	71.8
+GBTA_R_Contig_140	Eukaryota	common carp	3e-08	68.0
+GBTA_R_Contig_140	Eukaryota	common carp	1e-06	62.4
+GBTA_R_Contig_140	Eukaryota	common carp	1e-06	62.4
+GBTA_R_Contig_142	Eukaryota	common carp	9e-08	66.2
+GBTA_R_Contig_142	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_142	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_142	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_143	Eukaryota	common carp	4e-06	60.6
+GBTA_R_Contig_144	Eukaryota	common carp	2e-05	58.7
+GBTA_R_Contig_149	Eukaryota	common canary	2e-50	  207
+GBTA_R_Contig_152	Eukaryota	Corvus cornix cornix	3e-31	  144
+GBTA_R_Contig_156	Eukaryota	Corvus cornix cornix	3e-26	  127
+GBTA_R_Contig_160	Eukaryota	Corvus cornix cornix	3e-21	  110
+GBTA_R_Contig_161	Eukaryota	zebra finch	2e-23	  118
+GBTA_R_Contig_170	Eukaryota	zebra dove	7e-46	  192
+GBTA_R_Contig_173	Eukaryota	red-billed leiothrix	6e-42	  179
+GBTA_R_Contig_174	Eukaryota	common carp	9e-08	66.2
+GBTA_R_Contig_181	Eukaryota	white-throated sparrow	5e-10	73.6
+GBTA_R_Contig_192	Eukaryota	zebra finch	4e-30	  140
+GBTA_R_Contig_199	Eukaryota	Corvus cornix cornix	7e-32	  146
+GBTA_R_Contig_203	Eukaryota	white-throated sparrow	1e-34	  155
+GBTA_R_68055	Eukaryota	Barn swallow	2e-32	  148
+GBTA_R_63676	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_28395	Eukaryota	common carp	2e-05	58.7
+GBTA_R_2425	Eukaryota	red-billed leiothrix	4e-25	  123
+GBTA_R_77416	Eukaryota	Corvus cornix cornix	4e-34	  153
+GBTA_R_72425	Eukaryota	zebra finch	3e-45	  190
+GBTA_R_72425	Eukaryota	zebra finch	1e-39	  172
+GBTA_R_72425	Eukaryota	zebra finch	4e-39	  170
+GBTA_R_72425	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_72425	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_72425	Eukaryota	zebra finch	3e-26	  127
+GBTA_R_38452	Eukaryota	common carp	2e-09	71.8
+GBTA_R_38452	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38452	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38452	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38452	Eukaryota	common carp	3e-07	64.3
+GBTA_R_18001	Eukaryota	Corvus cornix cornix	1e-39	  172
+GBTA_R_59935	Eukaryota	collared flycatcher	2e-19	  105
+GBTA_R_74645	Eukaryota	emperor penguin	5e-52	  213
+GBTA_R_49506	Eukaryota	Kirtland's warbler	3e-12	81.1
+GBTA_R_40302	Eukaryota	common carp	5e-10	73.6
+GBTA_R_40302	Eukaryota	common carp	3e-07	64.3
+GBTA_R_40302	Eukaryota	common carp	3e-07	64.3
+GBTA_R_40302	Eukaryota	common carp	3e-07	64.3
+GBTA_R_64641	Eukaryota	Tibetan ground-tit	8e-27	  129
+GBTA_R_39739	Eukaryota	Tinamus guttatus	2e-22	  114
+GBTA_R_20644	Eukaryota	common carp	2e-05	58.7
+GBTA_R_46542	Eukaryota	great reed warbler	3e-45	  190
+GBTA_R_88483	Eukaryota	zebra finch	4e-25	  123
+GBTA_R_24100	Eukaryota	zebra finch	3e-35	  157
+GBTA_R_16853	Eukaryota	medium ground-finch	2e-28	  135
+GBTA_R_7303	Eukaryota	zebra finch	4e-25	  123
+GBTA_R_7303	Eukaryota	zebra finch	5e-24	  120
+GBTA_R_7303	Eukaryota	zebra finch	2e-23	  118
+GBTA_R_7303	Eukaryota	zebra finch	9e-22	  112
+GBTA_R_7303	Eukaryota	zebra finch	9e-22	  112
+GBTA_R_7303	Eukaryota	zebra finch	1e-20	  108
+GBTA_R_7303	Eukaryota	zebra finch	1e-20	  108
+GBTA_R_7303	Eukaryota	zebra finch	1e-20	  108
+GBTA_R_7303	Eukaryota	zebra finch	4e-20	  107
+GBTA_R_7303	Eukaryota	zebra finch	6e-19	  103
+GBTA_R_7303	Eukaryota	zebra finch	6e-19	  103
+GBTA_R_7303	Eukaryota	zebra finch	3e-17	97.8
+GBTA_R_7303	Eukaryota	zebra finch	1e-16	95.9
+GBTA_R_7303	Eukaryota	zebra finch	1e-16	95.9
+GBTA_R_7303	Eukaryota	zebra finch	3e-08	68.0
+GBTA_R_2940	Eukaryota	lesser goldfinch	1e-25	  125
+GBTA_R_5606	Eukaryota	Garrulax cineraceus	4e-34	  153
+GBTA_R_88187	Eukaryota	chuck-will's-widow	2e-04	55.0
+GBTA_R_48974	Eukaryota	common carp	1e-10	75.5
+GBTA_R_48974	Eukaryota	common carp	5e-10	73.6
+GBTA_R_48974	Eukaryota	common carp	7e-09	69.9
+GBTA_R_48974	Eukaryota	common carp	3e-08	68.0
+GBTA_R_14506	Eukaryota	Stachyris nigriceps	1e-39	  172
+GBTA_R_49471	Eukaryota	common carp	8e-04	53.1
+GBTA_R_82620	Eukaryota	zebra finch	2e-33	  151
+GBTA_R_78842	Eukaryota	zebra finch	2e-42	  181
+GBTA_R_88857	Eukaryota	collared flycatcher	7e-09	69.9
+GBTA_R_54659	Eukaryota	common carp	3e-08	68.0
+GBTA_R_54659	Eukaryota	common carp	1e-06	62.4
+GBTA_R_54659	Eukaryota	common carp	1e-06	62.4
+GBTA_R_54659	Eukaryota	common carp	1e-06	62.4
+GBTA_R_41471	Eukaryota	common carp	2e-05	58.7
+GBTA_R_64902	Eukaryota	zebra finch	8e-27	  129
+GBTA_R_71009	Eukaryota	American crow	2e-04	55.0
+GBTA_R_11057	Eukaryota	Garrulax cineraceus	1e-53	  218
+GBTA_R_81218	Eukaryota	common carp	7e-09	69.9
+GBTA_R_81218	Eukaryota	common carp	3e-08	68.0
+GBTA_R_81218	Eukaryota	common carp	9e-08	66.2
+GBTA_R_81218	Eukaryota	common carp	3e-07	64.3
+GBTA_R_81218	Eukaryota	common carp	3e-07	64.3
+GBTA_R_81218	Eukaryota	common carp	1e-06	62.4
+GBTA_R_68083	Eukaryota	zebra finch	2e-18	  101
+GBTA_R_23035	Eukaryota	red-winged blackbird	2e-14	88.5
+GBTA_R_19421	Eukaryota	Kauai amakihi	3e-35	  157
+GBTA_R_53786	Eukaryota	common carp	2e-09	71.8
+GBTA_R_65157	Eukaryota	collared flycatcher	5e-24	  120
+GBTA_R_53579	Eukaryota	mallard	1e-29	  138
+GBTA_R_37220	Eukaryota	Corvus cornix cornix	1e-24	  121
+GBTA_R_78531	Eukaryota	zebra finch	2e-28	  135
+GBTA_R_43724	Eukaryota	Wild Bactrian camel	2e-09	71.8
+GBTA_R_30575	Eukaryota	common carp	2e-09	71.8
+GBTA_R_30575	Eukaryota	common carp	3e-07	64.3
+GBTA_R_53153	Eukaryota	zebra finch	7e-37	  162
+GBTA_R_38143	Eukaryota	Corvus cornix cornix	7e-37	  162
+GBTA_R_24890	Eukaryota	common carp	3e-07	64.3
+GBTA_R_24890	Eukaryota	common carp	4e-06	60.6
+GBTA_R_24890	Eukaryota	common carp	2e-05	58.7
+GBTA_R_24890	Eukaryota	common carp	2e-05	58.7
+GBTA_R_27636	N/A	Cloning vector pFosill-2	5e-10	73.6
+GBTA_R_45068	Eukaryota	common carp	1e-11	79.2
+GBTA_R_45068	Eukaryota	common carp	9e-08	66.2
+GBTA_R_45068	Eukaryota	common carp	3e-07	64.3
+GBTA_R_61541	Eukaryota	zebra finch	7e-37	  162
+GBTA_R_40164	Eukaryota	Corvus cornix cornix	6e-19	  103
+GBTA_R_18854	N/A	Cloning vector pFosill-2	6e-05	56.9
+GBTA_R_59011	Eukaryota	Corvus cornix cornix	2e-13	84.8
+GBTA_R_27343	Eukaryota	Tibetan ground-tit	5e-43	  183
+GBTA_R_49896	Eukaryota	zebra finch	9e-36	  159
+GBTA_R_49896	Eukaryota	zebra finch	6e-33	  149
+GBTA_R_49896	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_49896	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_49896	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_49896	Eukaryota	zebra finch	2e-32	  148
+GBTA_R_49896	Eukaryota	zebra finch	1e-30	  142
+GBTA_R_49896	Eukaryota	zebra finch	1e-30	  142
+GBTA_R_49896	Eukaryota	zebra finch	1e-30	  142
+GBTA_R_49896	Eukaryota	zebra finch	4e-25	  123
+GBTA_R_49896	Eukaryota	zebra finch	5e-24	  120
+GBTA_R_49896	Eukaryota	zebra finch	4e-20	  107
+GBTA_R_49896	Eukaryota	zebra finch	8e-18	99.7
+GBTA_R_49896	Eukaryota	zebra finch	5e-10	73.6
+GBTA_R_49896	Eukaryota	zebra finch	9e-08	66.2
+GBTA_R_49896	Eukaryota	zebra finch	3e-07	64.3
+GBTA_R_49896	Eukaryota	zebra finch	6e-05	56.9
+GBTA_R_85010	Eukaryota	chicken	2e-23	  118
+GBTA_R_24186	Eukaryota	common carp	7e-09	69.9
+GBTA_R_24186	Eukaryota	common carp	3e-07	64.3
+GBTA_R_50755	Eukaryota	common carp	9e-08	66.2
+GBTA_R_23680	Eukaryota	Tibetan ground-tit	1e-43	  185
+GBTA_R_25371	Eukaryota	medium ground-finch	2e-27	  131
+GBTA_R_73113	Eukaryota	chicken	1e-10	75.5
+GBTA_R_58307	Eukaryota	common canary	1e-20	  108
+GBTA_R_27768	Eukaryota	common carp	2e-09	71.8
+GBTA_R_27768	Eukaryota	common carp	3e-07	64.3
+GBTA_R_27768	Eukaryota	common carp	3e-07	64.3
+GBTA_R_84505	Eukaryota	common canary	1e-34	  155
+GBTA_R_27436	Eukaryota	Macronous gularis	1e-48	  202
+GBTA_R_39548	Eukaryota	common carp	2e-09	71.8
+GBTA_R_13187	Eukaryota	cedar waxwing	7e-37	  162
+GBTA_R_51480	Eukaryota	zebra finch	9e-36	  159
+GBTA_R_51480	Eukaryota	zebra finch	9e-36	  159
+GBTA_R_51480	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_51480	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_51480	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_51480	Eukaryota	zebra finch	6e-33	  149
+GBTA_R_51480	Eukaryota	zebra finch	4e-20	  107
+GBTA_R_79501	Eukaryota	zebra finch	8e-18	99.7
+GBTA_R_80498	Eukaryota	white-throated sparrow	2e-19	  105
+GBTA_R_53183	Eukaryota	white-throated sparrow	6e-47	  196
+GBTA_R_49928	Eukaryota	zebra finch	3e-21	  110
+GBTA_R_21051	Eukaryota	Barn swallow	4e-25	  123
+GBTA_R_43285	Eukaryota	common canary	2e-05	58.7
+GBTA_R_19723	Eukaryota	chicken	8e-13	82.9
+GBTA_R_68890	Eukaryota	common canary	1e-39	  172
+GBTA_R_53181	Eukaryota	common canary	8e-27	  129
+GBTA_R_7748	Eukaryota	Tachysurus fulvidraco	3e-26	  127
+GBTA_R_57890	Eukaryota	Corvus cornix cornix	1e-34	  155
+GBTA_R_51268	Eukaryota	common carp	5e-10	73.6
+GBTA_R_51268	Eukaryota	common carp	9e-08	66.2
+GBTA_R_51268	Eukaryota	common carp	9e-08	66.2
+GBTA_R_81823	Eukaryota	Tibetan ground-tit	2e-55	  224
+GBTA_R_45613	Eukaryota	zebra finch	2e-13	84.8
+GBTA_R_71659	Eukaryota	American crow	1e-48	  202
+GBTA_R_23729	Eukaryota	zebra finch	1e-29	  138
+GBTA_R_23729	Eukaryota	zebra finch	6e-28	  133
+GBTA_R_38209	Eukaryota	common carp	2e-09	71.8
+GBTA_R_38209	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38209	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38209	Eukaryota	common carp	3e-07	64.3
+GBTA_R_38209	Eukaryota	common carp	3e-07	64.3
+GBTA_R_18248	Eukaryota	collared flycatcher	3e-08	68.0
+GBTA_R_52600	Eukaryota	common carp	8e-04	53.1
+GBTA_R_25406	Eukaryota	common canary	2e-23	  118
+GBTA_R_31449	Eukaryota	Temminck's courser	1e-29	  138
+GBTA_R_91228	Eukaryota	Tibetan ground-tit	4e-48	  200
+GBTA_R_90214	Eukaryota	zebra finch	7e-37	  162
+GBTA_R_90214	Eukaryota	zebra finch	2e-36	  161
+GBTA_R_90214	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_90214	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_90214	Eukaryota	zebra finch	1e-29	  138
+GBTA_R_90214	Eukaryota	zebra finch	5e-15	90.4
+GBTA_R_90214	Eukaryota	zebra finch	8e-13	82.9
+GBTA_R_20572	Eukaryota	Carrion crow	5e-24	  120
+GBTA_R_23615	Eukaryota	Corvus cornix cornix	4e-39	  170
+GBTA_R_61945	Eukaryota	American crow	1e-34	  155
+GBTA_R_43409	Eukaryota	common carp	7e-09	69.9
+GBTA_R_11640	Eukaryota	common carp	1e-11	79.2
+GBTA_R_11640	Eukaryota	common carp	6e-05	56.9
+GBTA_R_47272	Eukaryota	Wild Bactrian camel	2e-09	71.8
+GBTA_R_36530	Eukaryota	Tibetan ground-tit	4e-16	94.1
+GBTA_R_17706	Eukaryota	Stachyris nigriceps	2e-32	  148
+GBTA_R_84779	Eukaryota	Corvus cornix cornix	9e-36	  159
+GBTA_R_83913	Eukaryota	zebra finch	1e-10	75.5
+GBTA_R_40389	Eukaryota	common carp	7e-09	69.9
+GBTA_R_34553	Eukaryota	zebra finch	1e-10	75.5
+GBTA_R_20569	Eukaryota	common carp	8e-13	82.9
+GBTA_R_40296	Eukaryota	zebra finch	6e-14	86.6
+GBTA_R_40296	Eukaryota	zebra finch	8e-13	82.9
+GBTA_R_23224	Eukaryota	Tibetan ground-tit	7e-32	  146
+GBTA_R_8821	Eukaryota	collared flycatcher	1e-10	75.5
+GBTA_R_43896	Eukaryota	common carp	1e-10	75.5
+GBTA_R_43896	Eukaryota	common carp	3e-07	64.3
+GBTA_R_43896	Eukaryota	common carp	3e-07	64.3
+GBTA_R_43896	Eukaryota	common carp	3e-07	64.3
+GBTA_R_27308	Eukaryota	common carp	2e-09	71.8
+GBTA_R_27308	Eukaryota	common carp	9e-08	66.2
+GBTA_R_27308	Eukaryota	common carp	9e-08	66.2
+GBTA_R_27308	Eukaryota	common carp	3e-07	64.3
+GBTA_R_82393	Eukaryota	Corvus cornix cornix	4e-30	  140
+GBTA_R_90845	Eukaryota	zebra finch	3e-31	  144
+GBTA_R_90845	Eukaryota	zebra finch	1e-29	  138
+GBTA_R_90845	Eukaryota	zebra finch	1e-10	75.5
+GBTA_R_90845	Eukaryota	zebra finch	7e-09	69.9
+GBTA_R_62310	Eukaryota	American crow	2e-32	  148
+GBTA_R_7160	Eukaryota	great bustard	2e-28	  135
+GBTA_R_907	Eukaryota	Cardinalis cardinalis	2e-32	  148
+GBTA_R_50932	Eukaryota	common carp	5e-10	73.6
+GBTA_R_62705	Eukaryota	zebra finch	5e-15	90.4
+GBTA_R_41817	Eukaryota	American crow	2e-32	  148
+GBTA_R_39354	Eukaryota	common carp	3e-07	64.3
+GBTA_R_82208	Eukaryota	Buceros rhinoceros silvestris	2e-36	  161
+GBTA_R_39435	Eukaryota	common carp	6e-14	86.6
+GBTA_R_49364	Eukaryota	medium ground-finch	9e-22	  112
+GBTA_R_25701	Eukaryota	common carp	2e-09	71.8
+GBTA_R_25701	Eukaryota	common carp	9e-08	66.2
+GBTA_R_25701	Eukaryota	common carp	9e-08	66.2
+GBTA_R_25701	Eukaryota	common carp	3e-07	64.3
+GBTA_R_31195	Eukaryota	common carp	5e-10	73.6
+GBTA_R_2693	Eukaryota	common canary	1e-48	  202
+GBTA_R_72350	Eukaryota	collared flycatcher	2e-42	  181
+GBTA_R_24345	Eukaryota	zebra finch	4e-16	94.1
+GBTA_R_4680	Eukaryota	Stachyris nigriceps	2e-55	  224
+GBTA_R_7256	Eukaryota	Ciconia boyciana	3e-31	  144
+GBTA_R_24738	Eukaryota	zebra finch	4e-39	  170
+GBTA_R_3703	Eukaryota	Emberiza pusilla	2e-50	  207
+GBTA_R_19143	Eukaryota	Corvus cornix cornix	1e-44	  188
+GBTA_R_49936	Eukaryota	collared flycatcher	2e-55	  224
+GBTA_R_51165	Eukaryota	common carp	4e-06	60.6
+GBTA_R_84112	Eukaryota	collared flycatcher	4e-16	94.1
+GBTA_R_41751	Eukaryota	zebra finch	6e-19	  103
+GBTA_R_42765	Eukaryota	zebra finch	6e-42	  179
+GBTA_R_42765	Eukaryota	zebra finch	7e-32	  146
+GBTA_R_55579	Eukaryota	zebra finch	3e-12	81.1
+GBTA_R_4675	Eukaryota	Stachyris nigriceps	2e-55	  224
+GBTA_R_52623	Eukaryota	common carp	7e-09	69.9
+GBTA_R_52623	Eukaryota	common carp	3e-08	68.0
+GBTA_R_52623	Eukaryota	common carp	9e-08	66.2
+GBTA_R_52623	Eukaryota	common carp	3e-07	64.3
+GBTA_R_52623	Eukaryota	common carp	3e-07	64.3
+GBTA_R_52623	Eukaryota	common carp	1e-06	62.4
+GBTA_R_85230	Eukaryota	common carp	2e-09	71.8
+GBTA_R_85230	Eukaryota	common carp	3e-07	64.3
+GBTA_R_85230	Eukaryota	common carp	3e-07	64.3
+GBTA_R_50599	Eukaryota	zebra finch	6e-19	  103
+GBTA_R_1468	Eukaryota	zebra finch	2e-27	  131
+GBTA_R_1468	Eukaryota	zebra finch	1e-25	  125
+GBTA_R_2558	Eukaryota	Tibetan ground-tit	2e-50	  207
+GBTA_R_62676	Eukaryota	Corvus cornix cornix	8e-13	82.9
+GBTA_R_74551	Eukaryota	common canary	2e-28	  135
+GBTA_R_55869	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_55869	Eukaryota	zebra finch	1e-34	  155
+GBTA_R_55869	Eukaryota	zebra finch	1e-25	  125
+GBTA_R_55869	Eukaryota	zebra finch	1e-25	  125
+GBTA_R_55869	Eukaryota	zebra finch	2e-23	  118
+GBTA_R_25684	Eukaryota	Wild Bactrian camel	1e-10	75.5
+GBTA_R_1412	Eukaryota	common carp	1e-10	75.5
+GBTA_R_9690	Eukaryota	Corvus cornix cornix	1e-48	  202
+GBTA_R_18209	Eukaryota	chuck-will's-widow	5e-52	  213
+GBTA_R_61873	Eukaryota	Corvus cornix cornix	7e-23	  116
+GBTA_R_13216	Eukaryota	blackcap	4e-30	  140
+GBTA_R_13216	Eukaryota	blackcap	4e-30	  140
+GBTA_R_20642	Eukaryota	collared flycatcher	8e-18	99.7
+GBTA_R_22288	Eukaryota	Corvus cornix cornix	2e-41	  177
+GBTA_R_31079	Eukaryota	common carp	2e-09	71.8
+GBTA_R_31079	Eukaryota	common carp	3e-08	68.0
+GBTA_R_3698	Eukaryota	common canary	3e-40	  174
+GBTA_R_36192	Eukaryota	Wild Bactrian camel	1e-06	62.4
+GBTA_R_32337	Eukaryota	zebra finch	6e-28	  133
+MWBA_11023	Eukaryota	zebra finch	1e-38	  168
+MWBA_14722	Bacteria	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	5e-10	73.6
+MWBA_13412	Eukaryota	zebra finch	4e-25	  123
+MWBA_14444	Eukaryota	Corvus cornix cornix	1e-10	75.5
+MWBA_14724	Eukaryota	collared flycatcher	2e-27	  131
+MWBA_10569	Eukaryota	white-throated sparrow	5e-29	  136
+MWBA_4679	Eukaryota	Corvus cornix cornix	8e-27	  129
+MWBA_11983	Eukaryota	medium ground-finch	6e-47	  196
+MWBA_9711	Eukaryota	common carp	2e-09	71.8
+MWBA_9711	Eukaryota	common carp	2e-05	58.7
+MWBA_5726	Eukaryota	Corvus cornix cornix	1e-29	  138
+MWBA_10843	Eukaryota	white-throated sparrow	4e-11	77.3
+MWBA_6131	Eukaryota	chimpanzee	6e-05	56.9
+MWBA_5771	Eukaryota	common carp	7e-09	69.9
+MWBA_10820	Eukaryota	white-throated sparrow	3e-45	  190
+MWBA_11582	Eukaryota	Corvus cornix cornix	3e-35	  157
+MWBA_6982	Eukaryota	large-billed crow	4e-16	94.1
+MWBA_8649	Eukaryota	common canary	1e-53	  218
+MWBA_15444	Eukaryota	zebra finch	1e-43	  185
+MWBA_15444	Eukaryota	zebra finch	8e-27	  129
+MWBA_10582	Eukaryota	common carp	5e-10	73.6
+MWBA_10582	Eukaryota	common carp	3e-08	68.0
+MWBA_5708	Eukaryota	common carp	5e-10	73.6
+MWBA_5708	Eukaryota	common carp	1e-06	62.4
+MWBA_5708	Eukaryota	common carp	1e-06	62.4
+MWBA_5708	Eukaryota	common carp	1e-06	62.4
+MWBA_5708	Eukaryota	common carp	1e-06	62.4
+MWBA_15196	Eukaryota	common carp	2e-09	71.8
+MWBA_6785	Eukaryota	collared flycatcher	4e-20	  107
+MWBA_14062	Eukaryota	white-throated sparrow	5e-15	90.4
+MWBA_13145	Eukaryota	Tinamus guttatus	2e-23	  118
+MWBA_4755	Eukaryota	Tibetan ground-tit	7e-32	  146
+MWBA_6391	Eukaryota	common carp	3e-12	81.1
+MWBA_9071	Eukaryota	white-throated sparrow	2e-33	  151
+MWBA_9216	Eukaryota	common carp	1e-10	75.5
+MWBA_5446	Eukaryota	Corvus cornix cornix	2e-33	  151
+MWBA_3971	Eukaryota	great reed warbler	3e-26	  127
+MWBA_6257	Eukaryota	zebra finch	4e-39	  170
+MWBA_8690	Eukaryota	common carp	6e-05	56.9
+MWBA_6293	Eukaryota	Tibetan ground-tit	1e-29	  138
+MWBA_4670	Eukaryota	common carp	4e-06	60.6
+MWBA_7188	Eukaryota	zebra finch	2e-36	  161
+MWBA_8856	Eukaryota	zebra finch	1e-20	  108
+MWBA_12472	Eukaryota	common carp	9e-08	66.2
+MWBA_7467	Eukaryota	Barn swallow	4e-34	  153
+MWBA_15228	Eukaryota	purple sea urchin	2e-04	55.0
+MWBA_5324	Eukaryota	pig	1e-15	92.2
+MWBA_6203	Eukaryota	zebra finch	5e-24	  120
+MWBA_3895	Eukaryota	common carp	2e-09	71.8
+MWBA_3895	Eukaryota	common carp	3e-08	68.0
+MWBA_3895	Eukaryota	common carp	9e-08	66.2
+MWBA_8285	Eukaryota	common carp	9e-08	66.2
+MWBA_8023	Eukaryota	common carp	2e-04	55.0
+MWBA_8748	Eukaryota	Struthio camelus australis	3e-07	64.3
+MWBA_6463	Eukaryota	American crow	2e-23	  118
+MWBA_7360	Eukaryota	collared flycatcher	1e-29	  138
+MWBA_13739	Eukaryota	common carp	3e-08	68.0
+MWBA_13849	Eukaryota	zebra finch	7e-32	  146
+MWBA_7690	Eukaryota	common carp	1e-11	79.2
+MWBA_13520	Eukaryota	Carrion crow	1e-25	  125
+MWBA_14351	Eukaryota	Tibetan ground-tit	4e-30	  140
+MWBA_5604	Eukaryota	zebra finch	2e-36	  161
+MWBA_4465	Eukaryota	common carp	2e-09	71.8
+MWBA_4465	Eukaryota	common carp	3e-08	68.0
+MWBA_4465	Eukaryota	common carp	3e-08	68.0
+MWBA_4465	Eukaryota	common carp	9e-08	66.2
+MWBA_4465	Eukaryota	common carp	9e-08	66.2
+MWBA_4465	Eukaryota	common carp	4e-06	60.6
+MWBA_6432	Eukaryota	Corvus cornix cornix	2e-32	  148
+MWBA_6514	Eukaryota	common carp	2e-09	71.8
+MWBA_6514	Eukaryota	common carp	9e-08	66.2
+MWBA_6514	Eukaryota	common carp	9e-08	66.2
+MWBA_6514	Eukaryota	common carp	3e-07	64.3
+MWBA_6514	Eukaryota	common carp	3e-07	64.3
+MWBA_6514	Eukaryota	common carp	4e-06	60.6
+MWBA_7124	Eukaryota	common carp	4e-11	77.3
+MWBA_7124	Eukaryota	common carp	9e-08	66.2
+MWBA_7124	Eukaryota	common carp	9e-08	66.2
+MWBA_7124	Eukaryota	common carp	9e-08	66.2
+MWBA_5338	Eukaryota	common carp	7e-09	69.9
+MWBA_5338	Eukaryota	common carp	3e-07	64.3
+MWBA_5338	Eukaryota	common carp	3e-07	64.3
+MWBA_5338	Eukaryota	common carp	3e-07	64.3
+MWBA_12780	Eukaryota	Corvus cornix cornix	2e-46	  194
+MWBA_4421	Eukaryota	common carp	2e-05	58.7
+MWBA_4421	Eukaryota	common carp	8e-04	53.1
+MWBA_4421	Eukaryota	common carp	8e-04	53.1
+MWBA_2854	Eukaryota	common carp	1e-10	75.5
+MWBA_2854	Eukaryota	common carp	3e-08	68.0
+MWBA_2854	Eukaryota	common carp	9e-08	66.2
+MWBA_2854	Eukaryota	common carp	2e-05	58.7
+MWBA_Contig_114	Eukaryota	common carp	8e-04	53.1
+MWBA_Contig_140	Eukaryota	Gouldian finch	8e-04	53.1
+MWBA_Contig_142	Eukaryota	Gouldian finch	8e-04	53.1
+MWBA_Contig_155	Eukaryota	common carp	5e-10	73.6
+MWBA_Contig_155	Eukaryota	common carp	3e-08	68.0
+MWBA_Contig_155	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_160	Eukaryota	common carp	4e-11	77.3
+MWBA_Contig_160	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_160	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_160	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_165	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_201	Eukaryota	common canary	5e-15	90.4
+MWBA_Contig_206	Eukaryota	collared flycatcher	4e-34	  153
+MWBA_Contig_211	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_227	Eukaryota	Corvus cornix cornix	1e-43	  185
+MWBA_Contig_233	Eukaryota	common carp	1e-15	92.2
+MWBA_Contig_236	Eukaryota	common carp	4e-11	77.3
+MWBA_Contig_238	Eukaryota	common carp	7e-09	69.9
+MWBA_Contig_244	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_244	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_244	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_244	Eukaryota	common carp	2e-05	58.7
+MWBA_Contig_245	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_248	Eukaryota	common carp	5e-10	73.6
+MWBA_Contig_248	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_249	Eukaryota	common carp	4e-11	77.3
+MWBA_Contig_249	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_249	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_249	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_251	Eukaryota	Wild Bactrian camel	3e-08	68.0
+MWBA_Contig_257	Eukaryota	common carp	4e-06	60.6
+MWBA_Contig_261	Eukaryota	common carp	8e-04	53.1
+MWBA_Contig_291	Eukaryota	Gouldian finch	8e-04	53.1
+MWBA_Contig_298	Eukaryota	Corvus cornix cornix	1e-34	  155
+MWBA_Contig_314	Eukaryota	Corvus cornix cornix	2e-23	  118
+MWBA_Contig_318	Eukaryota	zebra finch	7e-32	  146
+MWBA_Contig_321	Eukaryota	zebra finch	1e-38	  168
+MWBA_Contig_321	Eukaryota	zebra finch	5e-38	  166
+MWBA_Contig_321	Eukaryota	zebra finch	2e-36	  161
+MWBA_Contig_321	Eukaryota	zebra finch	4e-34	  153
+MWBA_Contig_321	Eukaryota	zebra finch	7e-32	  146
+MWBA_Contig_321	Eukaryota	zebra finch	1e-10	75.5
+MWBA_Contig_328	Eukaryota	common carp	6e-05	56.9
+MWBA_Contig_349	Eukaryota	common carp	9e-08	66.2
+MWBA_Contig_352	Eukaryota	common carp	5e-10	73.6
+MWBA_Contig_352	Eukaryota	common carp	2e-09	71.8
+MWBA_Contig_352	Eukaryota	common carp	3e-08	68.0
+MWBA_Contig_352	Eukaryota	common carp	3e-08	68.0
+MWBA_Contig_354	Eukaryota	common carp	7e-09	69.9
+TEBA_15925	Eukaryota	common carp	2e-04	55.0
+TEBA_16128	Eukaryota	zebra finch	1e-30	  142
+TEBA_31657	Eukaryota	Corvus cornix cornix	1e-24	  121
+TEBA_14574	Eukaryota	common carp	6e-05	56.9
+TEBA_5723	Eukaryota	Corvus cornix cornix	5e-43	  183
+TEBA_10936	Eukaryota	zebra finch	4e-20	  107
+TEBA_16184	Eukaryota	collared flycatcher	3e-45	  190
+TEBA_10502	Eukaryota	zebra finch	4e-16	94.1
+TEBA_10502	Eukaryota	zebra finch	2e-14	88.5
+TEBA_13570	Eukaryota	collared flycatcher	3e-26	  127
+TEBA_23736	Eukaryota	Corvus cornix cornix	1e-43	  185
+TEBA_14633	Eukaryota	Corvus cornix cornix	6e-05	56.9
+TEBA_10968	Eukaryota	zebra finch	1e-38	  168
+TEBA_13875	Eukaryota	zebra finch	9e-36	  159
+TEBA_11554	Eukaryota	medium ground-finch	9e-36	  159
+TEBA_32606	Eukaryota	Barn swallow	1e-30	  142
+TEBA_15510	Eukaryota	zebra finch	3e-31	  144
+TEBA_15510	Eukaryota	zebra finch	1e-29	  138
+TEBA_29775	Eukaryota	Corvus cornix cornix	2e-41	  177
+TEBA_31252	Eukaryota	zebra finch	4e-25	  123
+TEBA_19664	Eukaryota	zebra finch	5e-43	  183
+TEBA_19664	Eukaryota	zebra finch	9e-22	  112
+TEBA_19664	Eukaryota	zebra finch	4e-20	  107
+TEBA_14276	Eukaryota	pig	5e-15	90.4
+TEBA_6560	Eukaryota	collared flycatcher	1e-16	95.9
+TEBA_5270	Eukaryota	collared flycatcher	2e-22	  114
+TEBA_30275	Eukaryota	golden-collared manakin	1e-25	  125
+TEBA_29393	Eukaryota	zebra finch	8e-41	  175
+TEBA_16435	Eukaryota	common carp	3e-07	64.3
+TEBA_16435	Eukaryota	common carp	2e-04	55.0
+TEBA_16435	Eukaryota	common carp	2e-04	55.0
+TEBA_16435	Eukaryota	common carp	2e-04	55.0
+TEBA_31687	Eukaryota	Corvus cornix cornix	1e-38	  168
+TEBA_23186	Eukaryota	Tibetan ground-tit	2e-33	  151
+TEBA_4138	Eukaryota	Corvus cornix cornix	6e-42	  179
+TEBA_23143	Eukaryota	common carp	5e-10	73.6
+TEBA_29603	Eukaryota	common carp	2e-14	88.5
+TEBA_16476	Eukaryota	Corvus cornix cornix	2e-41	  177
+TEBA_7582	Bacteria	Streptomyces hygroscopicus subsp. jinggangensis TL01	2e-04	55.0
+TEBA_26553	Eukaryota	Corvus cornix cornix	7e-37	  162
+TEBA_22663	Eukaryota	Tibetan ground-tit	2e-50	  207
+TEBA_7908	Eukaryota	common carp	4e-11	77.3
+TEBA_25255	Eukaryota	common canary	4e-25	  123
+TEBA_34696	Eukaryota	common carp	9e-08	66.2
+TEBA_34696	Eukaryota	common carp	2e-05	58.7
+TEBA_34696	Eukaryota	common carp	2e-05	58.7
+TEBA_34696	Eukaryota	common carp	2e-05	58.7
+TEBA_13828	Eukaryota	zebra finch	1e-43	  185
+TEBA_Contig_82	Eukaryota	common carp	7e-09	69.9
+TEBA_Contig_82	Eukaryota	common carp	1e-06	62.4
+TEBA_Contig_82	Eukaryota	common carp	1e-06	62.4
+TEBA_Contig_82	Eukaryota	common carp	1e-06	62.4
+TEBA_Contig_82	Eukaryota	common carp	1e-06	62.4
+TEBA_Contig_82	Eukaryota	common carp	6e-05	56.9
+TEBA_Contig_123	Bacteria	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	5e-10	73.6
+TEBA_Contig_124	Eukaryota	zebra finch	1e-16	95.9
+TEBA_Contig_131	Eukaryota	chicken	6e-14	86.6
+TEBA_Contig_131	Eukaryota	chicken	5e-10	73.6
+TEBA_Contig_139	Eukaryota	Corvus cornix cornix	1e-39	  172
+TEBA_Contig_161	Eukaryota	Gouldian finch	8e-04	53.1
+TEBA_Contig_173	Eukaryota	Wild Bactrian camel	2e-09	71.8
+TEBA_Contig_177	Eukaryota	common carp	2e-09	71.8
+TEBA_Contig_177	Eukaryota	common carp	3e-07	64.3
+TEBA_Contig_177	Eukaryota	common carp	3e-07	64.3
+TEBA_Contig_177	Eukaryota	common carp	3e-07	64.3
+TEBA_Contig_177	Eukaryota	common carp	3e-07	64.3
+TEBA_Contig_177	Eukaryota	common carp	2e-05	58.7
+CCYU_R_43769	Eukaryota	common canary	2e-33	  151
+CCYU_R_35548	Eukaryota	chicken	3e-07	64.3
+CCYU_R_21577	Eukaryota	Corvus cornix cornix	2e-09	71.8
+CCYU_R_21211	Eukaryota	zebra finch	2e-28	  135
+CCYU_R_22833	Eukaryota	zebra finch	2e-19	  105
+CCYU_R_21648	Eukaryota	zebra finch	1e-38	  168
+CCYU_R_8787	Eukaryota	chicken	2e-18	  101
+CCYU_R_21467	Eukaryota	collared flycatcher	7e-51	  209
+CCYU_R_1278	Eukaryota	zebra finch	4e-44	  187
+CCYU_R_1278	Eukaryota	zebra finch	1e-25	  125
+CCYU_R_6385	Eukaryota	common canary	1e-53	  218
+CCYU_R_11369	Eukaryota	zebra finch	3e-35	  157
+CCYU_R_11369	Eukaryota	zebra finch	1e-11	79.2
+CCYU_R_42160	Eukaryota	red-winged blackbird	4e-34	  153
+CCYU_R_9382	Eukaryota	white-throated sparrow	2e-14	88.5
+CCYU_R_11910	Eukaryota	Tibetan ground-tit	4e-25	  123
+CCYU_R_17107	Eukaryota	Zosterops borbonicus borbonicus	2e-32	  148
+CCYU_R_43728	Eukaryota	collared flycatcher	8e-18	99.7
+CCYU_R_1320	Eukaryota	chicken	8e-04	53.1
+CCYU_R_39997	Eukaryota	Corvus cornix cornix	1e-30	  142
+CCYU_R_10378	Eukaryota	Corvus cornix cornix	1e-48	  202
+CCYU_R_8170	Eukaryota	Corvus cornix cornix	2e-47	  198
+CCYU_R_11865	Eukaryota	zebra finch	3e-17	97.8
+CCYU_R_11865	Eukaryota	zebra finch	1e-15	92.2
+CCYU_R_36956	Eukaryota	zebra finch	4e-48	  200
+CCYU_R_36956	Eukaryota	zebra finch	4e-48	  200
+CCYU_R_36956	Eukaryota	zebra finch	2e-47	  198
+CCYU_R_36956	Eukaryota	zebra finch	2e-47	  198
+CCYU_R_36956	Eukaryota	zebra finch	2e-47	  198
+CCYU_R_36956	Eukaryota	zebra finch	7e-46	  192
+CCYU_R_36956	Eukaryota	zebra finch	1e-20	  108
+CCYU_R_43558	Eukaryota	great reed warbler	2e-28	  135
+CCYU_R_7920	Eukaryota	zebra finch	7e-37	  162
+CCYU_R_7380	Eukaryota	chicken	4e-06	60.6
+CCYU_R_35132	Eukaryota	Barn swallow	2e-37	  164
+CCYU_R_24585	Eukaryota	common canary	2e-32	  148
+CCYU_R_11600	Eukaryota	zebra finch	4e-30	  140
+CCYU_R_16783	Eukaryota	crested ibis	5e-38	  166
+CCYU_R_2072	Eukaryota	zebra finch	1e-38	  168
+CCYU_R_16443	Eukaryota	zebra finch	6e-28	  133
+CCYU_R_16443	Eukaryota	zebra finch	1e-24	  121
+CCYU_R_41222	Eukaryota	common canary	1e-34	  155
+CCYU_R_1869	Eukaryota	Corvus cornix cornix	1e-24	  121
+CCYU_R_1626	Eukaryota	zebra finch	3e-31	  144
+CCYU_R_1305	Eukaryota	red-winged blackbird	2e-36	  161
+CCYU_R_29954	Eukaryota	Corvus cornix cornix	4e-16	94.1
+CCYU_R_21686	Eukaryota	red-winged blackbird	1e-30	  142
+CCYU_R_3905	Eukaryota	zebra finch	3e-31	  144
+CCYU_R_14723	Eukaryota	zebra finch	5e-15	90.4
+CCYU_R_14723	Eukaryota	zebra finch	2e-13	84.8
+CCYU_R_39595	Eukaryota	collared flycatcher	6e-14	86.6
+CCYU_R_22634	Eukaryota	zebra finch	8e-27	  129
+CCYU_R_22634	Eukaryota	zebra finch	3e-26	  127
+CCYU_R_43029	Eukaryota	zebra finch	2e-28	  135
+CCYU_R_15306	Eukaryota	Corvus cornix cornix	6e-47	  196
+CCYU_R_4958	Eukaryota	Tinamus guttatus	1e-48	  202
+CCYU_R_37178	Eukaryota	red-winged blackbird	3e-26	  127
+CCYU_R_19247	Eukaryota	white-throated sparrow	2e-37	  164
+CCYU_R_5336	Eukaryota	medium ground-finch	1e-15	92.2
+CCYU_R_5993	Eukaryota	Corvus cornix cornix	2e-42	  181
+CCYU_R_9883	Eukaryota	Diphyllobothrium latum	8e-04	53.1
+CCYU_R_18015	Eukaryota	common carp	2e-09	71.8
+CCYU_R_21596	Eukaryota	collared flycatcher	3e-54	  220
+CCYU_R_38100	Eukaryota	Corvus cornix cornix	2e-42	  181
+CCYU_R_9713	Eukaryota	medium ground-finch	5e-24	  120
+CCYU_R_41913	Eukaryota	Corvus cornix cornix	9e-36	  159
+CCYU_R_20346	Eukaryota	common canary	2e-18	  101
+CCYU_R_13453	Eukaryota	Corvus cornix cornix	9e-36	  159
+CCYU_R_12384	Eukaryota	white-throated sparrow	9e-08	66.2
+CCYU_R_Contig_33	Eukaryota	Corvus cornix cornix	2e-42	  181
+CCYU_R_Contig_56	Eukaryota	common canary	9e-36	  159
+CCYU_R_Contig_66	Eukaryota	common carp	4e-11	77.3
+CCYU_R_Contig_66	Eukaryota	common carp	7e-09	69.9
+CCYU_R_Contig_66	Eukaryota	common carp	7e-09	69.9
+CCYU_R_Contig_66	Eukaryota	common carp	7e-09	69.9
+CCYU_R_Contig_66	Eukaryota	common carp	1e-06	62.4
+CCYU_R_Contig_66	Eukaryota	common carp	2e-05	58.7
+CCYU_R_Contig_69	Eukaryota	Corvus cornix cornix	6e-47	  196
+CCYU_R_Contig_73	Eukaryota	Corvus cornix cornix	6e-42	  179
+CCYU_R_Contig_75	Eukaryota	red-winged blackbird	6e-19	  103
+CCYU_R_Contig_80	Eukaryota	Corvus cornix cornix	1e-38	  168
+CCYU_R_Contig_116	Eukaryota	collared flycatcher	5e-10	73.6
+BCWE_24196	Bacteria	Stenotrophomonas maltophilia R551-3	3e-40	  174
+BCWE_5042	Bacteria	Stenotrophomonas maltophilia	6e-47	  196
+BCWE_10034	Viruses	Columba palumbus retrovirus	8e-13	82.9
+BCWE_10253	Eukaryota	Corvus cornix cornix	6e-14	86.6
+BCWE_40369	Eukaryota	Corvus cornix cornix	1e-39	  172
+BCWE_14359	Eukaryota	collared flycatcher	4e-25	  123
+BCWE_12343	Bacteria	Stenotrophomonas maltophilia	7e-32	  146
+BCWE_21673	Eukaryota	Tibetan ground-tit	6e-42	  179
+BCWE_8728	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_13553	Bacteria	uncultured bacterium	2e-55	  224
+BCWE_1311	Eukaryota	Corvus cornix cornix	1e-39	  172
+BCWE_35269	Eukaryota	common carp	3e-08	68.0
+BCWE_35269	Eukaryota	common carp	4e-06	60.6
+BCWE_35269	Eukaryota	common carp	4e-06	60.6
+BCWE_35269	Eukaryota	common carp	4e-06	60.6
+BCWE_15729	Bacteria	Stenotrophomonas maltophilia R551-3	2e-23	  118
+BCWE_5651	Bacteria	Stenotrophomonas maltophilia JV3	3e-40	  174
+BCWE_12213	Bacteria	Stenotrophomonas maltophilia R551-3	2e-41	  177
+BCWE_12213	Bacteria	Stenotrophomonas maltophilia R551-3	1e-39	  172
+BCWE_12213	Bacteria	Stenotrophomonas maltophilia R551-3	1e-39	  172
+BCWE_12213	Bacteria	Stenotrophomonas maltophilia R551-3	6e-19	  103
+BCWE_9360	Eukaryota	common carp	2e-04	55.0
+BCWE_23285	Eukaryota	zebra finch	2e-42	  181
+BCWE_23285	Eukaryota	zebra finch	3e-40	  174
+BCWE_23285	Eukaryota	zebra finch	1e-38	  168
+BCWE_23285	Eukaryota	zebra finch	5e-15	90.4
+BCWE_20441	Eukaryota	common canary	4e-30	  140
+BCWE_3338	Eukaryota	common carp	1e-10	75.5
+BCWE_17131	Eukaryota	common carp	2e-09	71.8
+BCWE_17131	Eukaryota	common carp	9e-08	66.2
+BCWE_17131	Eukaryota	common carp	3e-07	64.3
+BCWE_17131	Eukaryota	common carp	3e-07	64.3
+BCWE_17131	Eukaryota	common carp	3e-07	64.3
+BCWE_17131	Eukaryota	common carp	3e-07	64.3
+BCWE_17131	Eukaryota	common carp	2e-05	58.7
+BCWE_17131	Eukaryota	common carp	8e-04	53.1
+BCWE_24632	Eukaryota	house finch	7e-37	  162
+BCWE_36176	Eukaryota	house mouse	8e-04	53.1
+BCWE_15086	Eukaryota	common carp	5e-10	73.6
+BCWE_15086	Eukaryota	common carp	6e-05	56.9
+BCWE_26848	Bacteria	Stenotrophomonas maltophilia JV3	2e-32	  148
+BCWE_33533	Eukaryota	zebra finch	2e-28	  135
+BCWE_18632	Eukaryota	zebra finch	7e-32	  146
+BCWE_18632	Eukaryota	zebra finch	2e-28	  135
+BCWE_34900	Eukaryota	zebra finch	3e-40	  174
+BCWE_26857	Eukaryota	red-winged blackbird	2e-32	  148
+BCWE_24858	Eukaryota	common carp	7e-09	69.9
+BCWE_32509	Eukaryota	common carp	5e-10	73.6
+BCWE_32509	Eukaryota	common carp	6e-05	56.9
+BCWE_26817	Bacteria	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	1e-11	79.2
+BCWE_22815	Bacteria	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	4e-11	77.3
+BCWE_10118	Bacteria	Stenotrophomonas maltophilia D457	5e-24	  120
+BCWE_20720	Eukaryota	common carp	2e-09	71.8
+BCWE_13178	Eukaryota	silver-eye	1e-53	  218
+BCWE_6191	Eukaryota	common carp	4e-11	77.3
+BCWE_6191	Eukaryota	common carp	6e-05	56.9
+BCWE_9896	Eukaryota	medium ground-finch	9e-36	  159
+BCWE_Contig_31	Eukaryota	common carp	2e-09	71.8
+BCWE_Contig_31	Eukaryota	common carp	3e-07	64.3
+BCWE_Contig_31	Eukaryota	common carp	3e-07	64.3
+BCWE_Contig_31	Eukaryota	common carp	3e-07	64.3
+BCWE_Contig_33	Eukaryota	common carp	1e-10	75.5
+BCWE_Contig_34	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_37	Eukaryota	common carp	5e-10	73.6
+BCWE_Contig_37	Eukaryota	common carp	6e-05	56.9
+BCWE_Contig_38	Eukaryota	common carp	7e-09	69.9
+BCWE_Contig_39	Eukaryota	African yellow white-eye	1e-16	95.9
+BCWE_Contig_40	Eukaryota	common carp	5e-10	73.6
+BCWE_Contig_40	Eukaryota	common carp	6e-05	56.9
+BCWE_Contig_42	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_43	Eukaryota	African yellow white-eye	3e-12	81.1
+BCWE_Contig_45	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_46	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_47	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_48	Eukaryota	common carp	4e-11	77.3
+BCWE_Contig_49	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_51	Eukaryota	African yellow white-eye	1e-16	95.9
+BCWE_Contig_54	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_58	Eukaryota	Corvus cornix cornix	4e-48	  200
+BCWE_Contig_59	Eukaryota	African yellow white-eye	4e-16	94.1
+BCWE_Contig_60	Eukaryota	African yellow white-eye	8e-13	82.9
+BCWE_Contig_61	Eukaryota	common carp	5e-10	73.6
+BCWE_Contig_61	Eukaryota	common carp	6e-05	56.9
+BCWE_Contig_62	Eukaryota	common carp	1e-10	75.5
+BCWE_Contig_62	Eukaryota	common carp	6e-05	56.9
+BCWE_Contig_63	Eukaryota	African yellow white-eye	1e-16	95.9
+BCWE_Contig_64	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_73	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_80	Eukaryota	zebra finch	4e-20	  107
+BCWE_Contig_84	Eukaryota	collared flycatcher	2e-13	84.8
+BCWE_Contig_85	Eukaryota	zebra finch	1e-25	  125
+BCWE_Contig_86	Eukaryota	common carp	4e-06	60.6
+BCWE_Contig_86	Eukaryota	common carp	2e-04	55.0
+BCWE_Contig_86	Eukaryota	common carp	2e-04	55.0
+BCWE_Contig_86	Eukaryota	common carp	2e-04	55.0
+BCWE_Contig_87	Eukaryota	African yellow white-eye	1e-15	92.2
+BCWE_Contig_91	Eukaryota	African yellow white-eye	5e-15	90.4
