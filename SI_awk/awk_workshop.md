@@ -3,7 +3,7 @@
 #### Smithsonian CCEG
 April 26th, 2016
 
-*In this workshop we are focusing unix systems*
+*In this workshop we are focusing on unix systems*
 
 ## Basic Command Line Data Manipulation
 
@@ -200,3 +200,16 @@ Pipe those into wc to see the difference.
 Count the number of variant sites in sample.vcf
 
 #### Exercise 6
+Extract all the data for sites that start after 4899444 and are on the negative strand from t_gutatta.bed
+
+#### Exercise 7
+You will be using a blast output file called blast.txt and has the following format:  
+
+Sequence | Domain | Species  | evalue  | Score  
+----------- | ------ | ---- | ------ | ------
+GBTA_R_Contig_42  | Eukaryota  | commoncarp| 3e-12  |   81.1
+GBTA_R_Contig_44  | Eukaryota  | commoncanary| 1e-10  |   75.5
+
+1. Extract all the sequences that blasted to Eukaryota. Print their names, evalue and score.
+2. Count the number of hits that have a score of less that 80
+3. What is the highest score of the sequences that map to zebra finch
