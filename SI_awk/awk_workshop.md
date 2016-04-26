@@ -1,5 +1,5 @@
 # Command Line Data Manipulation
-### Intro to grep, awk, etc.
+### Intro to grep, awk, sed, etc.
 #### Smithsonian CCEG
 April 26th, 2016
 
@@ -140,8 +140,6 @@ awk is a interpreted programming language used primarily for processing text and
 2. Filter a data file
 3. Summarize data within the file
 
-###  Basic awk
-
 We will be using the bed file again.
 
 #### basic awk syntax:
@@ -213,3 +211,32 @@ GBTA_R_Contig_44  | Eukaryota  | commoncanary| 1e-10  |   75.5
 1. Extract all the sequences that blasted to Eukaryota. Print their names, evalue and score.
 2. Count the number of hits that have a score of less that 80
 3. What is the highest score of the sequences that map to zebra finch
+
+_____________
+## 4. sed
+
+sed is a stream editor that allows you to edit files efficiently. Like awk it works through pattern matching. Personally, I don't use it much. But its useful for printing, substitution, and deletion.
+
+ #### basic sed syntax:
+
+**substitution**  
+`sed s/pattern1/pattern2/g`  
+s: substitute  
+g: global (perform this on every occurance of pattern 1 in file). Optional   
+
+`sed 's/commoncarp/Cyprinuscarpio/g' blast.txt | head`
+
+what is you want to overwrite the original file:
+
+`sed -i 's/commoncarp/Cyprinuscarpio/' blast.txt`  
+-i is the insert flag  
+
+**filter**  
+-n the no print flag. Wont print lines that do not match a pattern1  
+
+Let's print every fourth lines:
+
+`sed -n 'n;n;n;p' blast.txt`  
+
+#### Exercise 8
+Replace zebrafinch with t.guttata in blast.txt. Save it as zebchange.txt and then print every other line. 
