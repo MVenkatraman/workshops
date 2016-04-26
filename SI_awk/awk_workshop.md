@@ -217,7 +217,7 @@ _____________
 
 sed is a stream editor that allows you to edit files efficiently. Like awk it works through pattern matching. Personally, I don't use it much. But its useful for printing, substitution, and deletion.
 
- #### basic sed syntax:
+#### basic sed syntax:
 
 **substitution**  
 `sed s/pattern1/pattern2/g`  
@@ -239,4 +239,4 @@ Let's print every fourth lines:
 `sed -n 'n;n;n;p' blast.txt`  
 
 #### Exercise 8
-Replace zebrafinch with t.guttata in blast.txt. Save it as zebchange.txt and then print every other line. 
+Replace zebrafinch with t.guttata in blast.txt. Save it as zebchange.txt and then print every other line.
