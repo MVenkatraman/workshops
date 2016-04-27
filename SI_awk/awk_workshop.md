@@ -114,8 +114,7 @@ How many lines in sample.vcf have the reference allele A?
 _____________
 ## 3. awk
 
-*We will be using a bed file in this workshop.
-Download t_guttata.bed*
+*We will be using a bed file in this part of the workshop*
 
 A bed file has the following format (without the headings):
 
@@ -146,9 +145,10 @@ We will be using the bed file again.
 
 `awk 'condition {action}' file.extension`
 
-Try this out see what you get:
+Try this out see what you get:  
 `awk '$6 == "+" {print $4}' t_guttata.bed`
 
+**Notice how the condition vs the action is important. The condition can act upon one column but the action can be on another**  
 To select a column in awk you just need to use its column number:
 * $1 = column 1
 * $2 = column 2
@@ -173,14 +173,12 @@ Okay, so that's all well and good but awk can do much more than just print thing
 
 For example you can filter for all the +ve strand entries in two ways:
 
-`awk '$6 == "+" {print $0}' t_guttata.bed | head`
+`awk '$6 == "+" {print $0}' t_guttata.bed | head`  
 `awk '$6 != "-" {print $0}' t_guttata.bed | head`
 
 or you want to extract only the header from a vcf file:  
 
 `awk '$1 ~ "#" {print $0}' sample.vcf`
-
-**Notice how the condition vs the action is important. The condition can act upon one column but the action can be on another**
 
 You can multiple conditions as well:  
 
