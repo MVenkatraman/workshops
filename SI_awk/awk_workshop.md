@@ -1,6 +1,7 @@
 # Command Line Data Manipulation
 ### Intro to grep, awk, sed, etc.
 #### Smithsonian CCEG
+##### Madhvi Venkatraman
 April 26th, 2016
 
 *In this workshop we are focusing on unix systems*
@@ -78,7 +79,7 @@ Let's just sort by ID first:
 
 #### Exercise 2
 
-Sort noheader.vcf by format first and then by ID and name it sorted.vcf.
+Sort noheader.vcf by ID first and then by reference allele and name it sorted.vcf.
 
 _____________
 ## 2. grep
@@ -224,13 +225,13 @@ sed is a stream editor that allows you to edit files efficiently. Like awk it wo
 **substitution**  
 `sed 's/pattern1/pattern2/g'`  
 s: substitute  
-g: global (perform this on every occurance of pattern 1 in file). Optional   
+g: global (perform this on every occurance of pattern 1 in file) as opposed to just the first   
 
 `sed 's/commoncarp/Cyprinuscarpio/g' blast.txt | head`
 
 what is you want to overwrite the original file:
 
-`sed -i blast.bak 's/commoncarp/Cyprinuscarpio/' blast.txt`  
+`sed -i blast.bak 's/commoncarp/Cyprinuscarpio/g' blast.txt`  
 -i is the insert flag  
 blast.bak is the backup file that macs insist you provide when using the insert flag.   
 
