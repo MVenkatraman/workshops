@@ -11,7 +11,7 @@ Before we get into more complicated and specific tools for data manipulation we 
 
 Download all the data:
 
-`wget https://github.com/MVenkatraman/workshops/tree/master/SI_awk/data`
+`svn export https://github.com/MVenkatraman/workshops/trunk/SI_awk/data/`
 
 *We will be using a VCF file in this portion called sample.vcf*
 
@@ -99,9 +99,15 @@ Now, i just want to know how many lines match this pattern:
 
 `grep -c "A,T" sample.vcf`
 
-**Now, I want all the lines that don't match this pattern**
+Now, I want all the lines that don't match this pattern
 
-`grep -v "A,T" sample.vcf | tail`
+`grep -v "A,T" sample.vcf | tail`  
+
+**Important use of grep: grepping your history!**  
+Perfect for lazy, forgetful people like me.  
+
+`history | grep "sort"`  
+*For when you cant remember your sort commands*
 
 #### Exercise 3
 
@@ -138,8 +144,6 @@ awk is a interpreted programming language used primarily for processing text and
 1. Learn basic awk syntax
 2. Filter a data file
 3. Summarize data within the file
-
-We will be using the bed file again.
 
 #### basic awk syntax:
 
@@ -218,7 +222,7 @@ sed is a stream editor that allows you to edit files efficiently. Like awk it wo
 #### basic sed syntax:
 
 **substitution**  
-`sed s/pattern1/pattern2/g`  
+`sed 's/pattern1/pattern2/g'`  
 s: substitute  
 g: global (perform this on every occurance of pattern 1 in file). Optional   
 
@@ -226,8 +230,9 @@ g: global (perform this on every occurance of pattern 1 in file). Optional
 
 what is you want to overwrite the original file:
 
-`sed -i 's/commoncarp/Cyprinuscarpio/' blast.txt`  
+`sed -i blast.bak 's/commoncarp/Cyprinuscarpio/' blast.txt`  
 -i is the insert flag  
+blast.bak is the backup file that macs insist you provide when using the insert flag.   
 
 **filter**  
 -n the no print flag. Wont print lines that do not match a pattern1  
